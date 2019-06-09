@@ -17,5 +17,7 @@ In this xCode project I created most of the UI Component such as:
 Furthermore, you will find also how to pass data (String and others) in different ways.
 Hope it can help! :)
 
+Tip: Uncomment the function callers one for time to check how it works and appears.
+
 
 ![](elementsFromCode.gif)
