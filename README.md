@@ -18,4 +18,4 @@ Furthermore, you will find also how to pass data (String and others) in differen
 Hope it can help! :)
 
 
-![(elementsFromCode.gif)]
+![](elementsFromCode.gif)
